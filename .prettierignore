@@ -1,0 +1,2 @@
+# Ignore minified JS files
+*.min.js
